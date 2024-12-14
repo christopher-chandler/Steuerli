@@ -1,0 +1,33 @@
+
+/* Class = "UIViewController"; title = "gotoResults"; ObjectID = "0jV-yC-D4i"; */
+"0jV-yC-D4i.title" = "gotoResults";
+
+/* Class = "UISegmentedControl"; 0rf-6a-efa.segmentTitles[0] = "Brutto"; ObjectID = "0rf-6a-efa"; */
+"0rf-6a-efa.segmentTitles[0]" = "Brutto";
+
+/* Class = "UISegmentedControl"; 0rf-6a-efa.segmentTitles[1] = "Netto"; ObjectID = "0rf-6a-efa"; */
+"0rf-6a-efa.segmentTitles[1]" = "Netto";
+
+/* Class = "UIButton"; configuration.title = "BERECHNEN"; ObjectID = "D8a-S8-WpF"; */
+"D8a-S8-WpF.configuration.title" = "BERECHNEN";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "D8a-S8-WpF"; */
+"D8a-S8-WpF.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Ergebnisse"; ObjectID = "TmS-dS-0Ma"; */
+"TmS-dS-0Ma.text" = "Ergebnisse";
+
+/* Class = "UIButton"; configuration.title = "NEU BERECHNEN"; ObjectID = "bCR-WB-tfX"; */
+"bCR-WB-tfX.configuration.title" = "NEU BERECHNEN";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "bCR-WB-tfX"; */
+"bCR-WB-tfX.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Prozent eingeben"; ObjectID = "eBd-ig-bgz"; */
+"eBd-ig-bgz.placeholder" = "Prozent eingeben";
+
+/* Class = "UILabel"; text = "%"; ObjectID = "o3d-1R-fzD"; */
+"o3d-1R-fzD.text" = "%";
+
+/* Class = "UITextField"; placeholder = "Betrag eingeben"; ObjectID = "vqV-YH-ckr"; */
+"vqV-YH-ckr.placeholder" = "Betrag eingeben";
